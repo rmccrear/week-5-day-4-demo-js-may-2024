@@ -25,12 +25,15 @@ Make a single page with:
 
 ### More examples
 
-* Doing 
+* Doing math with user input (convert to numbers).
+  * [Tip caclulator](https://github.com/rmccrear/week-5-day-2-demo-js-may-2024/blob/main/tip-calculator.js)
+* Changing CSS style objects with JavaScript.
+  * [Game Swap](https://github.com/rmccrear/week-5-day-1-demo-js-may-2024/blob/main/games.js)
 
 
 ### Bonus:
 
 * Use more than one Object of the same kind: for example, playerOne and playerTwo.
-* Use more than one button to ask different kinds of question in your promp.
+* Use more than one button to ask different kinds of question in your prompt.
 * Use the % operator.
 * Try using math random. Hint: [Math.floor(Math.random() * 100);](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
