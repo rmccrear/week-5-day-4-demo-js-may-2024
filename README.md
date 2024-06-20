@@ -1,6 +1,6 @@
 ### Setup
 
-Create a repository on GitHub and clone it. Or start a new project on Replit.
+DO NOT FORK. Create a new repository on GitHub and clone it. Or start a new project on Replit.
 
 Create one index.html page and one script.js file
 
